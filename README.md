@@ -1,4 +1,3 @@
-# Stock-Market-Analysis
 <h1>Stock Market Analysis Dashboard Using Power BI</h1>
 <h1>Introduction</h1>
 <p>This project presents a Power BI dashboard designed for Adani Enterprises Limited, showcasing key stock market trends and performance metrics. The dashboard visualizes stock price movements, trading volume, and historical high/low prices, helping stakeholders gain insights into market behavior. By leveraging interactive filters, users can analyze data based on day, month, quarter, and year selections.</p>
